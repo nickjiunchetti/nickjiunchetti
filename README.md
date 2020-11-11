@@ -3,7 +3,6 @@
 <center>
 <table>
     <tr>
-        <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickjiunchetti)](https://github.com/anuraghazra/github-readme-stats)</td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=nickjiunchetti&theme=dracula"/></td>
     </tr>   
 </table>
