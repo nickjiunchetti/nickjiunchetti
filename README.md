@@ -1,22 +1,14 @@
-### Hi there 👋
+## 🚀 Hello, I am Nicholas Jiunchetti<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickjiunchetti&langs_count=12&layout=compact&theme=dark" align="right">
+  
+I am an **experienced software engineer** with a career focused on javascript development. 
+With **react** on frontend, **node** on backend, and **react native** on mobile, I have built and maintained multiple applications ranging from all sizes and complexities.
 
-<center>
-<table>
-    <tr>
-    </tr>   
-</table>
-</center>  
-<!--
-**nickjiunchetti/nickjiunchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E-commerce, delivery app, data-heavy system, blockchain dApp, single page website, you name it, we build it 🤟
 
-Here are some ideas to get you started:
+## ☘️ Looking forward to work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VR/AR, blockchain, web3, games, physics, astronomy, music, art, I am keen on this topics and I seek to work and build a brighter tomorrow with them
+
+Check out my [Linked In](https://www.linkedin.com/in/nicholas-jiunchetti-carvalho/)
+
+Other social media [link.tree](https://linktr.ee/catnip.nick)
