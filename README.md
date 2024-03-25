@@ -5,10 +5,6 @@ With **react** on frontend, **node** on backend, and **react native** on mobile,
 
 E-commerce, SaaS, blockchain dApp, you name it, we build it 🤟
 
-## ☘️ Looking forward to work with
+## ☘️ Looking forward to work with you
 
-VR/AR, blockchain, web3, games, physics, astronomy, music, art, I am keen on this topics and I seek to build a brighter tomorrow with them
-
-Check out my [Linked In](https://www.linkedin.com/in/nicholas-jiunchetti-carvalho/)
-
-Other social media [link.tree](https://linktr.ee/catnip.nick)
+Check out my [link.tree][(https://www.linkedin.com/in/nicholas-jiunchetti-carvalho/](https://linktr.ee/admin)https://linktr.ee/admin)
