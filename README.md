@@ -7,4 +7,4 @@ E-commerce, SaaS, blockchain dApp, you name it, we build it 🤟
 
 ## ☘️ Looking forward to work with you
 
-Check out my [contacts](https://linktr.ee/nicholas.pro)
+Check out my [link.tree](https://linktr.ee/nicholas.pro)
