@@ -12,15 +12,16 @@ Remote from Brazil 🇧🇷 · Open to relocation
 
 ### 🛠️ Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,redux&perline=8)](https://skillicons.dev)
-[![Stack](https://skillicons.dev/icons?i=docker,aws,azure,postgres,mysql,jest,git,vscode&perline=8)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,storybook,jest,nodejs,tailwind&perline=8)](https://skillicons.dev)  
+[![Stack](https://skillicons.dev/icons?i=docker,postgres,mysql&perline=8)](https://skillicons.dev)
 
 ---
 
 ### ⚡ Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nickjiunchetti&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com/?user=nickjiunchetti&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickjiunchetti&theme=dark&hide_border=true&layout=compact)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=nickjiunchetti&theme=github-dark&hide_border=true)
 
 ---
 
