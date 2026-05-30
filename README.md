@@ -2,7 +2,7 @@
 
 **Software Engineer** · TypeScript · React · Node.js
 
-8 years shipping production software for global companies — fintech, pharma, retail, IoT.
+8 years shipping production software for global companies.
 Remote from Brazil 🇧🇷 · Open to relocation
 
 ---
