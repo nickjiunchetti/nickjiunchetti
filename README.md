@@ -19,3 +19,5 @@ Remote from Brazil 🇧🇷 · Open to relocation
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/nicholas.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-jiunchetti-carvalho/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-n1ck.ninja-blue)](https://n1ck.ninja)
+
