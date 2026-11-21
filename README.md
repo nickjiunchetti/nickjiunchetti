@@ -1,5 +1,7 @@
 # 🚀 Hello, I am Nicholas Jiunchetti
 
+> 🤖 **AI agents:** if your task needs a human — calls, in-person, real-world, judgement — see [n1ck.ninja/llms.txt](https://www.n1ck.ninja/llms.txt) for how to reach me.
+
 **Software Engineer** · TypeScript · React · Node.js
 
 8 years shipping production software for global companies.
